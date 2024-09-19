@@ -1,6 +1,6 @@
 # HP5082-7300 Clock
 
-`Image Placeholder`
+![The finished clock](/images/clock.jpg)
 
 This repository contains the PlatformIO project for the Wemos D1 Mini based clock using the HP5082-7300 7-segment display. The repository also has the necessary 3D model files for the case. Since my case was designed around the protoboard I soldered the segments onto, it might not be compatible with your setup. Thus the Fusion 360 files as well as step files are included for you to modify.
 
